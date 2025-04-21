@@ -11,10 +11,14 @@
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
-  "domoClientId": null,
-  "domoClientSecret": null,
+  "domoClientId": "abcdefg12345",
+  "domoClientSecret": "abcdefg12345",
   "authorizationURL": null,
   "accessTokenURL": null,
   "scope": null,
@@ -45,7 +49,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:383"
+      "$$hashKey": "object:161"
     }
   ],
   "commands": null,

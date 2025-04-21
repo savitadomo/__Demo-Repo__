@@ -2,8 +2,8 @@
   "name": "NewWritebackConnector",
   "connectorType": "writeback",
   "userId": null,
-  "domoClientId": null,
-  "domoClientSecret": null,
+  "domoClientId": "****",
+  "domoClientSecret": "****",
   "additionalInfo": null,
   "reportLength": 0,
   "days": 7,
@@ -24,7 +24,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:383"
+      "$$hashKey": "object:161"
     }
   ],
   "commands": null,
